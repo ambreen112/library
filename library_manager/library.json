@@ -1,0 +1,16 @@
+[
+    {
+        "title": "adaab",
+        "author": "javed",
+        "year": 2013,
+        "genre": "red",
+        "read": false
+    },
+    {
+        "title": "jannat k pattay",
+        "author": "sana skiekh",
+        "year": 2012,
+        "genre": "fiction",
+        "read": false
+    }
+]
